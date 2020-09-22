@@ -1,0 +1,26 @@
+{
+	"key": "$2a$12$skg8Mk3UJ3ylnmciryxCQ.IyjKTqi2ujRYwH0ak/BMXYiFBacZbx6",
+	"maps": 
+		[
+			{
+				"text": "来鼓，在线客服软件的漂亮之选",
+				"sign": "laigu_sign:MzZhNDk4YWU1MTMwZGQwYTA3YjJkZDhjYjdmYTE4MzQ2MDE3YjE1Nw=="
+			},
+			{
+				"text": "NOTICE: 来鼓，在线客服软件的漂亮之选",
+				"sign": "laigu_sign:NDIzYTNlNTA3ZDA5ODc0YThkMzJhYzkzZDU2NGE5YTAyMzkzYWZjNg=="
+			},
+			{
+				"text": "👏 来鼓，在线客服软件的漂亮之选 👏",
+				"sign": "laigu_sign:OTE4ZGZiMGY3OGVmY2Q2YzQ0ODBiYWRhNmI1NTk3MzRmNTRlZWNkMQ=="
+			},
+			{
+				"text": "NOTICE: 👏 来鼓，在线客服软件的漂亮之选 👏",
+				"sign": "laigu_sign:ZTRkM2VhZDNhZjEwNDU2YzIxNjJmM2E1YTE0YmI0ODE5NjEwNzgyZQ=="
+			},
+			{
+				"text": "{\"clientId\":\"12vc86d41d1611e69e6f029346effd31\",\"content\":\"test\",\"contentType\":\"text\",\"customizedData\":\"{\"name\":\"#4\",\"avatar\":\"http://img.touxiangwu.com/2020/3/R7VzUr.jpeg\"}\",\"deviceOS\":\"Android\",\"deviceToken\":\"d2433d6ad2861515e24316ddcbdg05eea23d\",\"fromName\":\"来鼓\",\"messageId\":\"111\",\"messageTime\":\"2016-01-01T00:00:00.622580\"}",
+				"sign": "laigu_sign:MTZhNzlmMWQyMTBiYmE1NTc1MjhiM2I0YjIxNDcyN2M1ODllZGI2ZQ=="
+			}
+		]
+}
